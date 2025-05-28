@@ -9,8 +9,8 @@
  # 개발협업
  ## 🌲 Branch 
 ```
-main ------- backend/<이름>/<이슈번호>-<작업명>    (백엔드 작업)
-     \------ frontend/<이름>/<이슈번호>-<작업명>   (프론트 작업)
+main ------- backend/<이름>/(<이슈번호>-)<작업명>    (백엔드 작업)
+     \------ frontend/<이름>/(<이슈번호>-)<작업명>   (프론트 작업)
 
 ex) backend/wonseok/#10-add-animation
 ex) frontend/wonseok/fix-login-not-allowed   (이슈가 없으면)
@@ -20,7 +20,7 @@ ex) frontend/wonseok/fix-login-not-allowed   (이슈가 없으면)
   - 직접 커밋하지 않으며, Pull Request만으로 변경한다.
 - 개인 브랜치에서 작업을 진행한다.
   - 브랜치명에 작업 내용이 구체적으로 드러나도록 한다.
-  - 브랜치명에 `backend`, `frontend`를 구분한다.
+- 브랜치명에 `backend`, `frontend`를 구분한다.
 
  # 설치방법
 (다른 개발자가 이 프로젝트를 테스트해볼 수 있도록 프론트, 백엔드 설치/실행 절차 안내)
