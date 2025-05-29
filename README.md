@@ -30,6 +30,10 @@ ex) frontend/wonseok/fix-login-not-allowed   (이슈가 없으면)
  # 스크린샷
 
  # 팀원
- (Github Profile, 이름, 기수, 역할)
+| <img width="150" src="https://github.com/cotidie.png"> | <img width="150" src="https://github.com/github.png"> | 
+|:----------------------:|:----------------------:|
+| [장원석](https://github.com/cotidie) | [팀원](https://github.com/cotidie) |
+| 💻 Android | 💻 역할 |
+| 15기 | 기수 |
 
  
