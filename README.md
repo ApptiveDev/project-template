@@ -4,7 +4,36 @@
  # 📝 주요기능
 
  # 🔨 기술스택 
+<!-- 
 (백엔드, 프론트, 협업에 사용한 툴, 라이브러리, 프레임워크)
+
+기술스택 배지 추가하는 방법 
+1. https://simpleicons.org/ 에서 기술스택명 검색
+2. 기술스택의 로고, 컬러 HEX 코드를 아래와 같이 입력
+  - https://img.shields.io/badge/<표시될 이름>-<컬러 HEX>?style=for-the-badge&logo=<로고명>
+3. 해당 URL로 마크다운 이미지 첨부
+  - ![이미지명](URL) 형식
+-->
+
+(백엔드, 프론트, 협업에 사용한 툴, 라이브러리, 프레임워크)
+
+![intellij](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![vscode](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=vscode&logoColor=white)
+![androidstudio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)  
+
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![github-action](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![jetpack-compose](https://img.shields.io/badge/jetpack_compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+| 스택 | 설명 | 용도 |
+|-----|-----|-----|
+| 스택1 | 스택에 대한 설명 | 프로젝트 쓰임새 |
+| ... | ... | ... |
 
  # 🤝 개발협업
  ## 🌲 Branch 
