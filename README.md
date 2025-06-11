@@ -35,6 +35,8 @@
 | 스택1 | 스택에 대한 설명 | 프로젝트 쓰임새 |
 | ... | ... | ... |
 
+ ## 🖼️ 스크린샷
+
  ## 🤝 개발협업
  ### 🌲 Branch 
 ```
@@ -79,8 +81,6 @@ ex) [Backend] 프로필 화면에서 로그인 불가하던 문제 해결     (�
 ### 💻 Frontend
 
 ### 💻 Backend
-
- ## 🖼️ 스크린샷
 
  ## 🧑‍💻 팀원
 | <img width="100" src="https://github.com/cotidie.png"> | <img width="100" src="https://github.com/github.png"> | 
