@@ -1,9 +1,9 @@
  # (프로젝트명)
 (개요, 프로젝트 소개)
 
- # 📝 주요기능
+ ## 📝 주요기능
 
- # 🔨 기술스택 
+ ## 🔨 기술스택 
 <!-- 
 (백엔드, 프론트, 협업에 사용한 툴, 라이브러리, 프레임워크)
 
@@ -35,8 +35,8 @@
 | 스택1 | 스택에 대한 설명 | 프로젝트 쓰임새 |
 | ... | ... | ... |
 
- # 🤝 개발협업
- ## 🌲 Branch 
+ ## 🤝 개발협업
+ ### 🌲 Branch 
 ```
 main ------- backend/<이름>/(<이슈번호>-)<작업명>    (백엔드 작업)
      \------ frontend/<이름>/(<이슈번호>-)<작업명>   (프론트 작업)
@@ -55,7 +55,7 @@ ex) frontend/wonseok/fix-login-not-allowed   (이슈가 없으면)
 
 프로젝트에 CI/CD를 구성하는 등 규모가 커지면 `develop` 브랜치를 추가하거나 `git flow`로 전환할 수 있습니다. 
 
- ## 🍪 Pull Request
+ ### 🍪 Pull Request
 ```
 main    ---●---●---●---------● abc (Squash Merge)
                 \           /
@@ -73,16 +73,16 @@ ex) [Backend] 프로필 화면에서 로그인 불가하던 문제 해결     (�
     - 브랜치에서의 변경점을 상세히 적는다.
 - Pull Request는 작은 작업 단위(200줄 이내 권장)로 한다.
 
- # 🛠 설치방법
+ ## 🛠 설치방법
 (다른 개발자가 이 프로젝트를 테스트해볼 수 있도록 프론트, 백엔드 설치/실행 절차 안내)
 
-## 💻 Frontend
+### 💻 Frontend
 
-## 💻 Backend
+### 💻 Backend
 
- # 🖼️ 스크린샷
+ ## 🖼️ 스크린샷
 
- # 🧑‍💻 팀원
+ ## 🧑‍💻 팀원
 | <img width="100" src="https://github.com/cotidie.png"> | <img width="100" src="https://github.com/github.png"> | 
 |:----------------------:|:----------------------:|
 | [장원석](https://github.com/cotidie) | [팀원](https://github.com/cotidie) |
